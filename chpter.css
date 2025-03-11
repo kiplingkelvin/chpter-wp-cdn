@@ -10,7 +10,7 @@
 *:focus {
     outline: none;
 }
-#payment_box{
+.payment_box{
     display: block !important;
 }
 #cod_message_title{
