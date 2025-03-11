@@ -11,10 +11,10 @@
     outline: none;
 }
 
-.payment_box.payment_method_chpter {
+ .woocommerce-checkout form.woocommerce-checkout .n-checkout-totals .wc_payment_methods .payment_box.payment_method_chpter {
     display: block !important;
  }
- 
+
 #cod_message_title{
     font-family: "Source Sans Pro", sans-serif !important;
     font-style: normal !important;
